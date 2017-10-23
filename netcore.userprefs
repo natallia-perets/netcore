@@ -1,7 +1,11 @@
 ﻿<Properties StartupConfiguration="{E1C727BD-8F41-4936-BA3D-B6688D6CB7CD}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="netcore Status">
     <Files>
-      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="20" Column="1" />
+      <File FileName="Startup.cs" Line="1" Column="1" />
+      <File FileName="wercker.yml" Line="1" Column="1" />
+      <File FileName="buildlocal.sh" Line="2" Column="14" />
+      <File FileName="netcore Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
